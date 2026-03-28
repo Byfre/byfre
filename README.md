@@ -33,9 +33,9 @@
 ## 📊 GitHub статистика
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=byfre&theme=dark&locale=ru)](https://git.io/streak-stats)
-<img src="https://gitstrength.netlify.app/api/card?username=byfre" alt="GitHub Streak Card" width="100%" />
 ---
 
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byfre103)
+
