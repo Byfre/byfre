@@ -29,7 +29,7 @@ Frontend-разработчик.
 
 ## 📊 GitHub статистика
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byfre&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=byfre&screen_effect=true)](https://github.com/LuciNyan/pixel-profile)
 
 ---
 
