@@ -27,12 +27,17 @@ Frontend-разработчик.
 
 ---
 
-## 📊 GitHub статистика
-
-[![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=byfre&screen_effect=true)](https://github.com/LuciNyan/pixel-profile)
-
----
-
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byfre103)
+
+
+---
+## 📊 GitHub статистика
+
+[![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=byfre&screen_effect=true)](https://github.com/LuciNyan/pixel-profile)
+[![GitHub Streak](https://streak-stats.demolab.com?user=byfre&theme=dark&locale=ru)](https://git.io/streak-stats)
+
+---
+
+
