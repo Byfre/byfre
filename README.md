@@ -1,11 +1,14 @@
-# 👋 Привет, я Виктор
+<h1 align="center">👋 Привет, я Виктор</h1>
 
-Frontend-разработчик. 
+<p align="center">
+  <em>Frontend-разработчик</em>
+</p>
 
 ---
 
 ## 🛠️ Стек технологий
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -31,12 +34,9 @@ Frontend-разработчик.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byfre103)
 
-
 ---
+
 ## 📊 GitHub статистика
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=byfre&theme=dark&locale=ru)](https://git.io/streak-stats)
-
----
-
 
