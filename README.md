@@ -35,7 +35,6 @@ Frontend-разработчик.
 ---
 ## 📊 GitHub статистика
 
-[![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=byfre&screen_effect=true)](https://github.com/LuciNyan/pixel-profile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=byfre&theme=dark&locale=ru)](https://git.io/streak-stats)
 
 ---
