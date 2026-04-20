@@ -25,8 +25,7 @@
 | **[Stream Vibe](https://github.com/Byfre/stream-vibe)** | Многостраничный адаптивный сайт стримингового сервиса, созданный с использованием фреймворка Minista, который позволяет использовать синтаксис JSX без реактивности. Технологии: Minista, JSX, SCSS, Vite, БЭМ, JavaScript classes | [→ Vercel](https://stream-vibe-six.vercel.app/) |
 | **[Stellar Burgers](https://github.com/Byfre/stellar-burgers)** | SPA для сервиса заказа бургеров с авторизацией, конструктором заказа, лентой заказов в реальном времени и личным кабинетом. Написаны интеграционные и юнит тесты. Технологии: React, Redux Toolkit, TypeScript, WebSocket, Jest, Cypress | [→ Vercel](https://stellar-burgers-chi.vercel.app/) |
 | **[Creative Scroll](https://github.com/Byfre/creative-scroll)** | Одностраничный сайт с плавной прокруткой и анимациями, которые оживают при скролле. Технологии: GSAP (ScrollTrigger, ScrollSmoother) | [→ Vercel](https://creative-scroll-henna.vercel.app/) |
-| **[Название проекта 4]** | Краткое описание проекта, что делает и какие технологии использовал | [→ Деплой](ссылка) |
-| **[Название проекта 5]** | Краткое описание проекта, что делает и какие технологии использовал | [→ Деплой](ссылка) |
+| **[Web-ларёк](https://github.com/Byfre/web-larek-frontend)** | Интернет-магазин для веб-разработчиков с каталогом товаров, корзиной и двухэтапным оформлением заказа. Реализована валидация форм, модальные окна, событийно-ориентированная архитектура MVP. Технологии: TypeScript, SCSS, Webpack, EventEmitter | [→ Vercel](https://test-brown-eight-35.vercel.app/) |
 
 ---
 
